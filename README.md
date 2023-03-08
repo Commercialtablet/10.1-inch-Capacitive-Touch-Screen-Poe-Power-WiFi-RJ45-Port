@@ -4,7 +4,7 @@
 This is the documentation for 10.1 inch Capacitive Touch Screen Poe Power WiFi/RJ45 Port products, written by Sales Team of HYY Technology Co.,Ltd.
 
 # Specification
-- Model NO : HYY-T-18.5-A-P
+- Model NO : HYY-T1001
 - CPU Core : Quad-Core
 - Battery Capacity : No Battery
 - Card Reader : Micro SD Card
@@ -12,13 +12,13 @@ This is the documentation for 10.1 inch Capacitive Touch Screen Poe Power WiFi/R
 - Front Camera Pixel : 1MP-2MP
 - Warranty : 1 Year
 - Certificate : CE/SGS
-- Size : 18.5 Inch
+- Size : 10.1 Inch
 - CPU : Rk3566
 - RAM : 2GB
 - ROM : 16GB
 - Operation System : Android 11
-- Resolution : 1366X768
-- Contrast Ratio : 1000:1
+- Resolution : 1280*800
+- Contrast Ratio : 700
 - Aspect Ratio : 16:9
 - Transport Package : Carton/Plywood Case/Aviation Case
 - Specification : Metal/Plastic Housing
